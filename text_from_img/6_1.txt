@@ -1,0 +1,39 @@
+< previous
+
+wt
+
+quiz #3
+
+qa bookmark this page
+
+quiz — ao apr 16, 2022 05:07 msk
+question 1
+
+4/1 point (graded)
+
+consider the following grammar:
+
+sa(s)ble
+
+a—s|sb|xle
+
+b+ sbly
+
+what are the first and follow sets of s?
+o first: {x, y, ‘c, &}, follow: {$, "() y}
+o first: {x, €}, follow: {$, y, x, (3
+o first: {&, y, '(, e}, follow: fy, x, '(, }
+
+o first: {x, '('}, follow: {$, y, xd
+
+o first: {, y, '(}, follow: {$, y, x, cv}
+
+© first: {, y, '(, &}, follow: {8 y. x")
+
+v
+
+otnpasure
+
+show answer
+
+next >

@@ -1,0 +1,39 @@
+—o
+
+la bookrmark this page
+
+quiz — ao may 8, 2022 07:18 msk
+question 1
+
+1/1 point (graded)
+
+use the simple language and code generation technique described in the lecture to evaluate the following 2
+expressions:
+
+ei ({3-2)*6)4+5
+
+£2:5+(6*(2-2))
+
+which of the following statements are true?
+
+choose all that apply]
+
+e1 generates more mips instructions than e2.
+
+lv] the code for e2 uses more stack space than the code for £1.
+
+e2 generates 21 mips instructions.
+
+e1 generates fewer mips instructions than e2.
+
+lv] £1 and e2 require the same number of stack pop actions.
+
+ly} e1 generates 19 mips instructions.
+
+v
+otbet
+bepho:
+the mips instructions for e2 will push 3 numbers to the stack without pop actions.
+they all require 3 stack pop actions.
+
+p| eho anewar

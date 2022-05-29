@@ -1,0 +1,47 @@
+@ course / week 3: parsing & top-down parsing / 06-04: recursive descent algorithm (13m28s}
+
+< previous
+
+my
+
+wv
+
+quiz
+
+a bookmark this page
+
+recursive descent algorithm video quiz
+
+1/1 point (ungraded)
+
+which lines are incorrect in the recursive descent implementation of this grammar?
+
+line 4, bool term{token tok) { return *next++ == tok; }
+
+2. bool ey () {return e'();}
+
+line 3. bool ez () {return e'() && term(plus) && term{id);}
+
+5 4, bool et} {
+
+token *save = next;
+
+m line 6. return (next = save, fy ()) && (next = save, ee ()};
+7.3
+
+yj line [8. bool be} () {return termn(minus) 8& e'();}
+9. bool b%, () {return term(id);}
+10.bool ei, () {return term(open) && e() && term{close);}
+
+v
+t1.bool e'(} {
+12. token *next = save; return (next = save, ty ())
+13. [|(next = save, th ())
+14. ||(next = save, t3 ();
+
+153
+
+eoe | b+id
+eb! -> —e’ | id | (b)
+
+next >

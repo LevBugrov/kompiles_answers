@@ -1,0 +1,28 @@
+otnpapute show answer
+
+question 5
+
+1/1 point (graded)
+
+let s; be the string consisting of é 0's follwed by 2¢ 1's. define the language ln = {s;[1 <7 <n}. for
+example,
+
+£3 = {011, 001111, 000111111 }.
+
+for any given m, what is the smallest number of states needed for a dfa that recognizes l,?
+
+© 3n+1
+o 2n
+o 3n
+
+© 3n+2
+
+o34
+
+o n? +2n-2
+
+v
+
+otnpapute show answer
+
+question 6

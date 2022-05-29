@@ -1,0 +1,32 @@
+fed | stanfordoniine soe.ycscs1
+
+compilers help — eakrayushkina»
+
+kypc mporpecc latbl o6cyxgehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 6: cool type checking & runtime organization / 11-06: stack machines (16m23s) (c]
+
+< previous mv ira next >
+
+quiz
+qq bookmark this page
+
+stack machines in-video quiz
+
+1/1 point (ungraded)
+
+given the current state of the stack and accumulator, what is the next line of code to generate for the code
+fragment (2 * 3) + 5?
+
+current:
+o push ace suck 6, < init >
+© pop
+oc acc-6
+
+© acc — acc + top_of_stack
+
+v
+
+usl boi vcnonb3obann 1 m3 3 nonbitok coxpannrh — show answer
+
+ni 1 en eel

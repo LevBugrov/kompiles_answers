@@ -1,0 +1,16 @@
+question 4
+
+1/1 point (graded)
+
+consider grammars g1, g2, and g3.
+
+g1: e > (at | (e)t
+t>+id|*id
+g2: s + bsb| a | €
+a-vaale
+g3: r— ar’ | (r)r’
+r'—>e| xr’
+x>.r[+r[*
+
+the number of symbols in the first sets for the *non-terminals* are:
+

@@ -1,0 +1,26 @@
+i ted ose
+
+question 4
+
+1/1 point (graded)
+
+using the simple language and code generation technique from the lectures and putting temporaries on the
+stack, what will be the size (in bytes) of the activation record for the following function (assuming temporaries
+are stored in the activation record):
+def f(x, y, z, w):
+if x= (y +z)
+then 5
+else if x = (if y = z then f(y, z, x, 1) else x)
+then x
+else x * (y + (z- x)
+
+o 20
+© 36
+© 28
+o16
+© 24
+© 32
+o11
+
+v
+otnpapute show answer

@@ -1,0 +1,28 @@
+y bepno (1/1 gann)
+
+question 7
+
+1/1 point (graded)
+consider the following grammar:
+
+e>t*ee|t
+to int + t | int | (e)
+
+using shift-reduce parsing, how many shift and how many reduce moves does it take to accept the input
+
+string:
+({int + int)*int)
+
+o shift = 10; reduce = 6
+
+©@ shift = 9; reduce = 9
+
+© shift = 10; reduce = 7
+o shift = 9; reduce = 8
+
+o shift = 9; reduce = 7
+
+v
+otnpapute show answer
+
+y bepuo (1/1 gann)

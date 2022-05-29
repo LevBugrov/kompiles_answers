@@ -1,0 +1,34 @@
+nppacute
+
+y bepuo (1/1 gann)
+
+question 2
+
+1/1 point (graded)
+
+if we have the following program:
+class main inherits 10 {
+xiint<— 5;
+foo(z:int) : int {
+x+z
+i
+bar(y:int) : int {{
+let x: int — tin
+let z= int <— 2in
+footy);
+m
+main(): object {f
+let x: int <7 in
+out_int(foo(bar(3}))};
+m
+}
+
+what would the the program print assuming it is statically scoped?
+
+show answer
+
+© 13
+
+o5
+on
+oe

@@ -1,0 +1,33 @@
+¥  bepuo (1/1 gann)
+
+question 9
+
+1/1 point (graded)
+
+consider following 4 grammars:
+g1.5 > asb | sb|b
+62.5 sa| sb|e
+
+g3. + sas | €
+
+g4. s > bt
+t at |e
+
+let n = the number of grammars where there exists a string that has at least two different left-most
+derivations;
+
+m = the number of grammars where for any string, we only have one parse tree;
+
+k = the number of grammars that can be used with a recursive descent parser
+
+choose the correct value for n,m and k.
+
+o n=tm=2;k=1
+
+n=i;m=1;k=0
+
+n=2;m=2;k=1
+
+n=2;m=2;k=2
+
+6 0 o}]o/ o

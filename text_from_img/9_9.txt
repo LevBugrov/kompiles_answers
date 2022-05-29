@@ -1,0 +1,27 @@
+otnpapute show answer
+
+y bepno (1/1 gann)
+
+question 9
+
+1/1 point (graded)
+
+consider the expression (7 + 5) * (3 + 2).
+which of the following are possible stack machine states during evaluation?
+check all that apply]
+
+iy] acc: 5, stack: 7, <init>
+
+acc: 12, stack: 5, <init>
+
+acc: 3, stack: 2, 7,5, <init>
+
+acc: 5, stack: 7, 5, <init>
+
+iv] acc: 3, stack: 12, <init>
+
+acc: 5, stack: <init>
+
+otnpasutb show answer
+
+y bepno (1/1 gann)

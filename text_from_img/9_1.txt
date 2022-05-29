@@ -1,0 +1,37 @@
+l bookmark this page
+
+quiz — ao apr 28, 2022 22:35 msk
+question 1
+
+1/1 point (graded)
+
+in order, what are the cool types for each of the three expressions in the following block?
+assume a class hierarchy foo < bar < bazz < object along with the usual primitive cool types.
+{
+
+case 3 of y: int > y; z: bool > z; esac;
+
+if 0 = 1 then new bar else new foo fi;
+
+let x: bazz <— new bar in x;
+
+object, bar, bazz
+
+int, foo, bar
+
+int, bazz, bar
+
+int, bazz, bazz
+
+object, foo, bar
+
+int, bar, bazz
+
+object, bazz, bar
+
+object, foo, bazz
+
+object, bar, bar
+
+»o 00000 0 0/8
+

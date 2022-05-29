@@ -1,0 +1,32 @@
+fed | stanfordoning sorycscst help — eakrayushkinav
+compilers
+
+kypc mporpecc latbl o6cyxgehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 7: code generation & operational semantics / 12-03: code generation il (18m08s) g
+
+< previous mv ind a next >
+
+quiz
+
+qq bookmark this page
+
+code generation ii in-video quiz
+
+1/1 point (ungraded)
+
+for the function definitions at right, which of the following appear in the activation record on a call to f()?
+
+def fx,y,z) =
+x ifx
+then gly
+else g(z)
+t q
+def git) =
+g t+1
+iv} zz
+v
+
+otnpasute boi ucnonb3abann 1 m3 3 nombitok coxpahutb == show answer
+
+y  bepuo (1/1 gann)

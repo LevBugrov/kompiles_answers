@@ -1,0 +1,41 @@
+foo():object {
+
+let i:int<—0 in
+
+while i < 10 loop{
+(new bar}@foo.foo();
+iis;
+
+} pool
+
+yi
+
+yi
+
+using the object layout described in lecture, in order to represent the objects that exist when this program
+terminates, how many pointers in memory will need to point to the code for some implementation of the
+method "foo", and how many pointers in memory will need to point to an int that is some object's “a” attribute?
+
+assume that all objects created still exist when the program terminates.
+
+oo 1 pointers to "foo" methods, 2 pointers to "a" attributes
+
+oo 11 pointers to "foo" methods, 11 pointers to "a" attributes
+
+oo 2 pointer to "foo" methods, 0 pointers to "a" attributes
+
+oo 11 pointers to "foo" methods, 0 pointers to "a" attributes
+
+© 2 pointer to "foo" methods, 11 pointers to "a" attributes
+
+oo 1 pointers to "foo" methods, 11 pointers to "a" attributes
+
+v
+
+otnpasure
+
+y bepuo (1/1 gann)
+
+question 4
+
+show answer

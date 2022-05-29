@@ -1,0 +1,36 @@
+lj bookmark this page
+
+predictive parsing in-video quiz
+
+1/1 point (ungraded)
+
+choose the alternative that correctly left factors "if" statements in the given grammar.
+
+expr — if bool then { expr }
+| if bool then { expr } else { expr }
+
+bool — true | false
+
+© expr — if true then { expr }
+
+if false then { expr }
+
+if true then { expr } else { expr }
+if false then { expr } else { expr}
+
+© expr — if bool expr’
+expr’ — then { expr }
+
+then { expr } else { expr)
+bool — true | false
+
+© expr — expr' | expr' else { expr}
+expr' — if bool then { expr }
+
+bool — true | false
+
+@ expr — if bool then { expr } expr'
+
+expr’ — else {expr}| €
+bool — true | false
+

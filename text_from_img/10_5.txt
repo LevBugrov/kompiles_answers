@@ -1,0 +1,30 @@
+@ course / week 7: code generation & operational semantics / 13-03: cool semantics | (21m10s)
+
+< previous
+
+my
+
+wv
+
+quiz
+qq bookmark this page
+
+cool semantics | video quiz
+
+1/1 point (ungraded)
+
+fill in the missing store value for the derivation of (x — 6) <x +1.
+
+so, [x:l], $1 + 6 : int(6}, se 80, [xl], $3 f 1: int(), sq
+s83 = so[6/l] so, dal], sq + x: 6, ss
+0, [x:i], s) x — 6:6, sy so, dal], $3 + x41: 7, s5
+
+so, [x:l], [| — 3] f (x — 6) < x+1: bool(true), s5
+
+so s83 54 55
+e) [3] [l-3] [l—-6] -7]
+e) [l-6] [l-6] u7] [-7]
+e) [3] [l-3] [l—-6] ul-6]
+® [3] [l-6] [l-6] u6]
+
+next >

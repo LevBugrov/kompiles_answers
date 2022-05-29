@@ -1,0 +1,43 @@
+@ course / week 4: bottom-up parsing | & il / 07-01: predictive parsing (18m37s)
+
+< previous
+
+my
+
+quiz
+
+aa bookmark this page
+
+wv ay
+
+predictive parsing in-video quiz
+
+1/1 point (ungraded)
+
+ira next
+
+choose the next parse state given the grammar, parse table, and current state below. the initial string is:
+
+if
+
+if true then { true } else { if false then { false }}} $
+
+else
+
+if bthen {e}e"
+
+else (e}
+
+stack input
+current e¢ else { if false then { false }} $
+os $
+© else (e}$ else { if false then { false }} $
+oecess if false then { false }} $
+
+fa
+
+> if bthen (e}e’
+}b[e
+rebe{e} le
+
+> true | false

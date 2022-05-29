@@ -1,0 +1,34 @@
+v
+
+otnpapute show answer
+
+y bepno (1/1 gann)
+
+question 6
+
+1/1 point (graded)
+
+for the program in question 5, assume the constant propagation algorithm has completed.
+
+which of the following statements is true?
+
+l_n is the statement at line n, and c(l,v,in} = c means that at the "in" of statement l variable v is some
+constant, and c(l,v,in) = t means v is not a constant.
+
+choose all that apply]
+
+vy] cil7, w, in) = t
+
+cil2, y, out) = c
+
+vy] cils, x, out} = c
+
+y] cil4, y, in) = t
+
+cil8, z, out) = c
+
+v
+
+otnpapute show answer
+
+y bepuo (1/1 gann)

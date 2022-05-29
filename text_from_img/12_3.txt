@@ -1,0 +1,25 @@
+fedx | stanrordoniing soe vcscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flats o6cyxaehwe nporpammao6yyehua virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 8: local optimization & global optimization / 15-03: analysis of loops (7m22s) (c]
+
+< previous mv ira next >
+
+quiz
+[1] bookmark this page
+
+analysis of loops in-video quiz
+
+1/1 point (ungraded)
+
+after running the constant propagation algorithm to completion, choose the correct dataflow information for x,
+y, and z at the program point labeled at right.
+
+x y zz
+ot 1 t
+@4 t 5
+o4 1 5
+o4 t t
+

@@ -1,0 +1,31 @@
+fed | stanfordoning sorycscst help — eakrayushkinav
+compilers
+
+kypc mporpecc latbl o6cyxgehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 4: bottom-up parsing | & il / 08-01: handles (6m48s) cc)
+
+< previous mv ind a next >
+
+quiz
+
+qq bookmark this page
+
+handles in-video quiz
+
+1/1 point (ungraded)
+
+given the grammar at the right, identify the handle for the following shift-reduce parse state: e' + -id| + -(id +
+
+id)
+
+ese ie +e
+o e+ -id b= -e' lid | (e)
+@ ia
+o -id
+or+e
+v
+
+otnpasute boi mcnonb3obann 1 m3 3 nombitok coxpahutb = show answer
+
+y baenun (1/1 bann}

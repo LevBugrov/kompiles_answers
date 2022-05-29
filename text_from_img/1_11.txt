@@ -1,0 +1,10 @@
+question 11
+
+1/1 point (graded)
+
+which of the following automata are dfas?
+
+[check all that apply]
+
+si
+

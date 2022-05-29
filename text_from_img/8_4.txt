@@ -1,0 +1,36 @@
+1/1 point (ungraded)
+
+choose the static / dynamic type pairs that are correct. for dynamic type, assume execution has halted at line
+15.
+
+1 class animal {...}
+2 clone():self_type {new self_type}
+3}
+var 4 class pet inherits animal {
+static type 5 clone():self_type {new self_type}
+
+dynamic type ® }
+7 class cat inherits pet {...}
+8 class dog inherits pet {... }
+9 class lion inherits animal {... }
+10class main {
+w w: animal — (new animal).clone(};
+12 x: animal — (new lion}.clone(};
+13 y: pet — (new cat).clone();
+14: animal — (new dog)@animal.clone();
+
+315...
+
+16 }
+
+w animal pet
+
+lv] x animal lion
+y pet pet
+iv] zz animal dog
+
+v
+
+otnpaeute boi mcnonb3obanu 7 m3 3 nombitok coxpahutb = show answer
+
+y bepuo (1/1 gann)

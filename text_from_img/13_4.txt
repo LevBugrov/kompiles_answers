@@ -1,0 +1,32 @@
+otnpaeute show answer
+
+y bepuo (1/1 gann)
+
+question 4
+
+1/1 point (graded)
+
+which of the following statements about dataflow analyses is true?
+for these choices, dataflow analysis 1 initializes the variables to t at entry, and to _l at all other points, as
+discussed in class, while dataflow analysis 2 initializes the variables to t at all points in the control flow graph.
+
+dataflow analysis 2 always produces a different final set of variable-value pairs than dataflow analysis
+1.
+
+lv] assuming dataflow analysis 1 is correct (overapproximates the possible values of variables) and
+dataflow analysis 2 terminates, dataflow analysis 2 must be correct.
+
+lv] the order in which a dataflow analysis iterates over the different statements of the code does not
+change the final set of variable-value pairs, as long as the analysis repeats this process until there is no
+change.
+
+lv] if there is a fixed, finite number of possible annotations each variable can take in our dataflow analysis,
+then the dataflow analysis is guaranteed to terminate.
+
+v
+
+otnpasute show answer
+
+y bepuo (1/1 gann)
+
+question 5

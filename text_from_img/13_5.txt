@@ -1,0 +1,31 @@
+question 5
+
+1/1 point (graded)
+
+consider the following program:
+
+tox 5
+
+2: ify > 1 goto label3
+3: label1:
+
+4 wesw
+
+5: if y > 2 goto label3
+6: label2:
+
+7 gi=3
+8: if z<1goto label!
+9: label
+
+10: wi= 2
+
+11: if z > 1 goto label2
+12: qisy+w
+
+which variables are live immediately before the execution of statement 7? assume only variable q is live after
+
+the statement in line 12.
+choose all that apply]
+
+shaw ancwer

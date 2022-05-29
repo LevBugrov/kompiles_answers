@@ -1,0 +1,39 @@
+question 5
+
+1/1 point (graded)
+
+given the following grammar,
+stmt—var | if_stmt
+if_stmt—if var then stmt | if var then stmt else stmt
+
+var—a | b | win | loss
+
+which of the following series is a valid bottom-up parsing for the string:
+if a then if b then win else loss
+
+[choose all that apply]
+
+if a then if b then win else loss
+if var then if b then win else loss
+if var then if var then win else loss
+if var then if var then var else loss
+if var then if var then var else var
+if var then if var then stmt else var
+if var then if var then stmt else stmt
+if var then if_stmt
+if var then stmt
+if_stmt
+stmt
+
+lv] if a then if b then win else loss
+if var then if b then win else loss
+if var then if var then win else loss
+if var then if var then var else loss
+if var then if var then stmt else loss
+if var then if_stmt else loss
+if var then stmt else loss
+if var then stmt else var
+if var then stmt else stmt
+if_stmt
+stmt
+

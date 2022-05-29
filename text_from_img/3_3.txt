@@ -1,0 +1,41 @@
+@ course / week 4: bottom-up parsing | & il / 07-05: bottom-up parsing (7m25s)
+
+< previous
+
+tig aw
+
+quiz
+
+l] bookmark this page
+
+bottom-up parsing in-video quiz
+
+1/1 point (ungraded)
+
+for the given grammar, what is the correct series of reductions for the string:
+
+~(id + id) + id
+ese e+e
+o ~lid + ia) + id ee [ra] (6)
+-(id + e') + id
+~(id + e) + id
+(e+e) tid
+-(e) +id
+-e'+id
+e' + id
+e+e
+b+te
+e
+
+@ ~(id + id) + id
+~(e' + id) + id
+(e+e) +id
+(e+e) tid
+~(e) +id
+-e'+id
+e'+ id
+e+e
+ete
+e
+
+next >

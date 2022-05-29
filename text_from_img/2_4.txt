@@ -1,0 +1,41 @@
+y bepuo (1/1 gann)
+
+question 4
+
+1/1 point (graded)
+
+considering the following grammar:
+
+soa
+
+a>b|c
+
+bo (c)
+
+c>b+c|d
+
+d+1/0
+
+adding which of the following will cause the grammar to be left-recursive?
+
+choose all that apply]
+
+vmboc
+
+dob
+
+av~d
+
+vy) d+a
+
+cole
+
+vm c+c+b
+
+v
+otbet
+bepho:
+b- candc > b+ c together cause the grammar to be left-recursive.
+d— a,a—c,and c — d together cause the grammar to be left-recursive.
+
+f* 3 (vl pr itealf nraneas the arammar +a ha left_eraci reine

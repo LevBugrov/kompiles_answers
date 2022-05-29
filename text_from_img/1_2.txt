@@ -1,0 +1,25 @@
+question 2
+
+1/1 point (graded)
+
+consider the string abbbaace. which of the following lexical specifications produces the tokenization
+
+ab / bb / a / acc?
+
+check all that apply]
+
+iy] a(b + c*)
+b+
+
+iv] ab
+
+b+
+ac*
+
+otnpaeurs
+
+question 3
+
+1/1 point (graded)
+
+show answer

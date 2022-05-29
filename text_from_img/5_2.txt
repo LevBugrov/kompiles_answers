@@ -1,0 +1,33 @@
+fed | slanfordonine sorncscst help — eakrayushkinav
+compilers
+
+kypc mporpecc latbl o6cyxgehwe mporpammao6yyehua virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 2: lexical analysis & finite automata / 03-03: regular languages (12m236s) (c]
+
+< previous mv wy mv next >
+
+quiz
+qq bookmark this page
+
+regular languages in-video quiz
+
+1/1 point (ungraded)
+
+choose the regular languages that are equivalent to the given regular language: (0 + 1)#1{0 + 1)*
+==(0,1)}
+
+(01 + 11)*(0 + 1)*
+
+[y¥] (0 + 1)*(10 + 11 + 1}(0 + 1)*
+
+<
+
+(1+ 0)*1(1 + 0)*
+
+(0 + 1)#(0 + 1)(0 + 1)*
+
+v
+
+otnpasute bei mcnonb3abanu 1 m3 3 nombitok coxpahutb == show answer
+

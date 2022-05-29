@@ -1,0 +1,39 @@
+question 3
+
+1/1 point (graded)
+
+which of the following grammar(s) produce regular languages?
+
+choose all that apply]
+
+as (a) le
+
+ma {ae
+
+lv] a= (b) | (bb)
+
+b- (cc) | (ccc)
+c— (ddd)
+d306
+
+m a> aa|b
+
+m a aalb
+
+a aaab|e
+
+vv] a aaaab | €
+
+vv] a — aaaab | aab
+
+v
+
+otbet
+
+bepho:
+
+the grammar generates the regular language a*b.
+the grammar generates the regular language ba*.
+the grammar generates the regular language (aab)*.
+
+tha eramamar uanaratan tha paniilar laninun janhnakitanh

@@ -1,0 +1,29 @@
+< previous wy next >
+
+quiz #1
+
+qa bookmark this page
+
+quiz — ao apr 3, 2022 11:40 msk  aeepuieno
+question 1
+
+1/1 point (graded)
+
+how many distinct strings are in the language of the regular expression:
+(0o+1+6 +146) (0+1+6 (0+1+6)
+
+?
+
+@x
+o11
+o16
+© 32
+o 64
+
+oa
+v
+
+otnpapute show answer
+
+question 2
+

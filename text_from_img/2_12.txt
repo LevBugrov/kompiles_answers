@@ -1,0 +1,25 @@
+y bepno (1/1 gann)
+
+question 12
+
+1/1 point (graded)
+
+let t;, be the string 0” 1, to be matched with a recursive descent parser using the following grammar:
+$>a|b| 0s
+
+a>0aal|0
+bo
+
+is the number of token comparisons needed to (successfully} match 7, :
+0 0)
+o ofn)
+
+© o(n)
+
+o o(n?)
+o 02")
+
+v
+otnpasutb show answer
+
+y bepno (1/1 gann)

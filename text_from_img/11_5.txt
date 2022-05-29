@@ -1,0 +1,19 @@
+class a {
+x © int;
+a() : int {..};
+yi
+class b inherits a {
+y = int;
+ze int
+yi
+class c inherits b {
+cosintt.}
+‘i
+what is the size of an object of class c in words using the cool object layout strategy described in the video
+lectures?
+
+© o/®/o0 0 0
+
+otnpapute show answer
+
+y bepuo (1/1 gann)

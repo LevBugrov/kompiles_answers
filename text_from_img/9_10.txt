@@ -1,0 +1,30 @@
+v
+
+otnpasut show answer
+
+v bepuo (1/1 gann)
+
+question 10
+
+1/1 point (graded)
+
+consider computing expressions using a 1-register stack machine.
+check all that apply.]
+
+[¥] computing expressions 1+2+3+...+n and 1+(2+(3+(...+n))} require the same number of acc <- acc +
+top_of_stack actions.
+
+[v¥] computing the expression 1+2+3+..._n requires n-1 push actions.
+
+computing the expression 1+(2+(3+(...+n})) requires n pop actions.
+
+computing the expression 1+2+3+...+n requires 1 push action.
+
+lv] computing expressions 1+2+3+...4n and 14+(2+(3+(...+n))} require different amounts of stack space.
+
+v
+
+otnpasute show answer
+
+y  bepuo (1/1 gann)
+

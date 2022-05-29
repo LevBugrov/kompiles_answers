@@ -1,0 +1,35 @@
+fedx | stanfordoniing sorycscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flatbl o6cyxgaehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 6: cool type checking & runtime organization / 10-01: static vs. dynamic typing (7m14s) (c]
+
+< previous mv ind a next >
+
+quiz
+1 bookmark this page
+
+static vs. dynamic typing in-video quiz
+
+1/1 point (ungraded)
+
+choose the static/dynamic type pairs that are correct. for the dynamic type, assume execution has halted at
+
+line 14.
+1 class animal {...}
+2. class pet inherits animal {...}
+3. class cat inherits pet {...}
+var static type dynamic type 4 class dog inherits pet (..}
+5 class lion inherits animal {...}
+6 class main (
+7 w: animal — new animal;
+lv] w animal lion ib x: animal — new pet;
+y: animal — new pet;
+x animal pet 10 z: pet — new pet;
+m1 w<—new lion;
+12 y —new dog;
+y pet dog 18° z— new cat;
+a4.
+zz pet pet 18 }
+

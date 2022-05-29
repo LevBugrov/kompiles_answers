@@ -1,0 +1,39 @@
+kypc mporpecc
+
+yate
+
+o6cyxgehne mporpammao6yyehun virtualbox vmsetup getting started with the vm
+
+@ course / week 6: cool type checking & runtime organization / 10-04: self type usage (6m29s)
+
+< previous
+
+tig aw
+
+other project resources
+
+more...
+
+next >
+
+quiz
+[1 bookmark this page
+
+self type usage in-video quiz
+
+1/1 point (ungraded)
+
+which of the following usages of self_type is *incorrect*?
+
+tet x: self_type —
+(new self_type) in
+
+” (new animal) @sele_type.bark();
+
+© class animal {
+addfriend(friend: animal): self_type
+com
+
+}
+
+” (new self_type).foo();

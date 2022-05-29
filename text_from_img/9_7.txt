@@ -1,0 +1,25 @@
+otnpasute show answer
+
+vy bepno (1/1 gann)
+
+question 7
+
+1/1 point (graded)
+
+for the program in question 6, how many activation records are there in total, assuming out_int has no child
+calls?
+
+© 10
+o12
+o21
+@ 15
+o17
+
+os
+v
+
+otnpasutb show answer
+
+v bepno (1/1 gann)
+
+question 8

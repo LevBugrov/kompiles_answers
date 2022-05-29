@@ -1,0 +1,37 @@
+fed | slanfordonine sorncscst help — eakrayushkinav
+compilers
+
+kypc mporpecc ffatbl o6cyxgaehwe nporpammao6yyehun virtualbox vmsetup ‘getting started with the vm other project resources more...v
+
+@ course / week 5: semantic analysis and type checking / 09-07: subtyping (11m35s) (c]
+
+< previous mv ind a next >
+
+quiz
+( bookmark this page
+
+subtyping in-video quiz
+
+1/1 point (ungraded)
+
+given the class definitions at right, which of the following least upper bound statements are true?
+
+class object
+y] lub(point, quad) = object {class bool inherits object
+lass point inherits object
+class line inherits object
+class shape inherits object
+lass quad inherits shape
+m] lub(square, rect) = rect iclass circle inherits shape
+lass rect inherits quad
+class square inherits rect
+
+lub(square, rect) = quad
+
+lub(square, circle) = object
+
+v
+
+otnpaeute bei mcnonb3abanu 1 m3 3 nombitok coxpahutb == show answer
+
+y  bepuo (1/1 gann)

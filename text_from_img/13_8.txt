@@ -1,0 +1,41 @@
+lt at ys
+6: goto label2
+
+7: labelt:
+
+8 wi=xt]
+
+q y:sxtd
+
+10: label2:
+
+va +y
+
+12: biz a*z
+
+which of the following local optimizations could be applied to the program, considering all possible orders of
+applying different optimizations? assume that only variable b is live on exit from the program.
+
+check all that apply]
+
+algebraic simplification
+
+lv] constant folding
+
+¥| dead code elimination
+
+lv} common subexpression elimination
+
+copy propagation
+
+lv} constant propagation
+
+v
+
+otnpapute show answer
+
+y  bepuo (1/1 gann)
+
+question 9
+
+1 point possible (graded)

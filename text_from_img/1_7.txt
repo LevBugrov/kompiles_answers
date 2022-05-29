@@ -1,0 +1,28 @@
+v
+
+otnpapute show answer
+
+question 7
+
+1/1 point (graded)
+
+what is the minimum number of states a dfa recognizing the language of a(be)*d can have?
+
+@4
+o23
+o6
+os
+
+v
+
+otnpapute show answer
+
+y bepno (1/1 gann)
+
+question 8
+
+1/1 point (graded)
+
+given the following lexical specification:
+
+a(ba)*

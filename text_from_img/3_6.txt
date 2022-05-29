@@ -1,0 +1,21 @@
+@ course / week 4: bottom-up parsing | & il / 08-06: slr parsing example (6m42s)
+
+< previous
+
+my ira
+quiz
+(a bookrnark this page
+slr parsing example video quiz
+4/1 point (ungraded)
+using the dfa on the previous slide, choose the next action for the given parse state
+configuration dfa halt state
+int * int | + int $ 3
+o shift
+© red. t = int
+o red. t > int *t
+© accept
+v
+
+vy bepuo (1/1 gann)
+
+next >

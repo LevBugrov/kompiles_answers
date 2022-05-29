@@ -1,0 +1,36 @@
+y bepuo (1/1 gann)
+
+question 7
+
+1/1 point (graded)
+
+the following two expressions are evaluated using the simple code generation technique described in the
+video lectures:
+
+el=elte2+e3+e4+e5
+
+e2=e1+(e2+(e3+(e4+e5)}))
+
+identify the correct conclusions about the number of temporaries(nt} needed in the evaluation of e1 and £2.
+[choose all that apply]
+
+for any choice of e1, e2, e3, e4, and e5, nt(e1} > nt(e2).
+
+for any choice of e1, e2, e3, e4, and e5, nt(e1} < nt(e2).
+
+for any choice of e1, e2, e3, e4, and e5, nt(e1} = nt(e2}.
+
+for different choices of e1, e2, e3, e4, and e5, the predicates nt(e1) < nt(e2), nt(e1) = nt(e2), and
+nt(e1)} > nt(e2) can all be true.
+
+<
+
+if all of e1, e2, 3, e4, and e5 are integer literals, nt(e1) < nt(e2).
+
+if all of e1, e2, €3, e4, and e5 are integer literals, nt(e1) = nt(e2).
+
+if all of e1, e2, €3, e4, and e5 are integer literals, nt(e1) > nt(e2).
+
+v
+
+otnpasute show answer

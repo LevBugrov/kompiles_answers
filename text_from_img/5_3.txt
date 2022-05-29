@@ -1,0 +1,29 @@
+@ course / week 2: lexical analysis & finite automata / 04-02: finite automata (23m28s)
+
+< previous
+
+my wv my
+
+quiz
+a bookmark this page
+
+finite automata in-video quiz
+
+© points possible (ungraded)
+
+~
+
+select the regular language that denotes the same language as this finite automaton
+
+© (o+1)*
+© (1 + 0) + 0}
+
+© 1 + (01)* + (001)* + (000*1)*
+
+© (0 +1)*00
+
+v
+
+otnpaeute ‘show answer
+
+next >

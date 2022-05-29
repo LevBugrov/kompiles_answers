@@ -1,0 +1,30 @@
+tibuxant) = iat y
+if valcomp(x,2) then sing() else fib(x - 1) + filb(x - 2) fi
+yi
+main() : int {{
+xint + let y : int < 4 in fib(y);
+out_int(x);
+m
+i
+in the activation tree, how many direct children does the activation of the first call to fib in main have, and what
+is the maximum depth of the activation tree? assume a single root node as a tree has a depth of 1.
+
+o children: 2, depth: 5
+o children: 4, depth: 5
+o children: 3, depth: 6
+
+o children: 2, depth: 4
+
+© children: 3, depth: 5
+
+o children: 4, depth: 4
+
+o children: 2, depth: 3
+
+v
+
+otnpasute show answer
+
+v bepuo (1/1 gann)
+
+question 7

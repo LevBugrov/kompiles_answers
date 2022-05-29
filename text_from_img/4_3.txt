@@ -1,0 +1,25 @@
+fed x | slanfordonine sorncscst help — eakrayushkinav
+compilers
+
+kypc mporpecc qlatbl o6cyxqaehwe mporpammao6yyehua virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 3: parsing & top-down parsing / 05-04: ambiguity (17m35s} cc)
+< previous mv wv mv wy mv next >
+quiz
+
+aq bookmark this page
+
+ambiguity in-video quiz
+1/1 point (ungraded)
+
+which of the following grammars are ambiguous?
+
+mss5s alb
+
+meso e+e, id
+
+s sa; sb
+
+eoe |e+e
+ei >-e' id | (b)
+

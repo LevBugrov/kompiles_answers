@@ -1,0 +1,39 @@
+v bepuo (1/1 gann)
+
+question 8
+
+1/1 point (graded)
+
+given the following lexical specification:
+a(ba)*
+
+b*(ab}*
+
+abd
+
+d+
+
+which of the following statements is true?
+
+check all that apply]
+
+<
+
+babad will be tokenized as: bab / a / d
+
+<
+
+ababdddd will be tokenized as: abab / dddd
+
+dddabbabab will be tokenized as: ddd / a / bbabab
+
+ababddababa will be tokenized as: ab / abd / d / ababa
+
+v
+
+otnpaeurs
+
+question 9
+
+show answer
+

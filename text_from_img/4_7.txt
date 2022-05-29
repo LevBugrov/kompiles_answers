@@ -1,0 +1,33 @@
+fedx | stanfordoniing sorycscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flatbl o6cyxgaehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 3: parsing & top-down parsing / 06-05: left recursion (9m11s} cc)
+
+< previous mv wy mv next >
+
+quiz
+1 bookmark this page
+
+left recursion in-video quiz
+
+1/1 point (ungraded)
+
+choose the grammar that correctly eliminates left recursion from the given grammar:
+ede+t|t
+t> id | (e)
+
+o ese+id [e+ (e)
+jia | (e)
+
+oeseht|t
+e' id | (e)
+t= id | (e)
+
+@ ete
+e's +te' le
+tid | (e)
+
+o epidt+e/e+t|t
+tid | (e)

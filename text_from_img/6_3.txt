@@ -1,0 +1,35 @@
+y bepuo (1/1 gann)
+
+question 3
+
+1/1 point (graded)
+
+which of the following are true of the initial state of the slr(1) parsing automaton from the last question
+(question 2)? [choose all that apply]
+
+the state has a reduce-reduce conflict on end-of-input.
+
+lv] the state has a reduce-reduce conflict on input ‘('.
+
+the state has a reduce-reduce conflict on input x.
+
+the state has a reduce-reduce conflict on transition s.
+
+this state has a shift-reduce conflict on end-of-input.
+
+this state has a shift-reduce conflict on input ‘(’.
+
+l¥| this state has a shift-reduce conflict on input x.
+
+this state has a shift-reduce conflict on transition s.
+
+v
+
+otbet
+
+bepho:
+
+“("is in follow(s} and follow(a) at the same time, so the state has a reduce-reduce conflict.
+
+a —- .xis in the initial state, so the state can shift on x, x is in follow(s), the state can reduce, then the state
+has a shift-reduce conflict on x.

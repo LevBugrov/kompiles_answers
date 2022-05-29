@@ -1,0 +1,32 @@
+fed | slanfordonine sorncscst help — eakrayushkinav
+compilers
+
+kypc mporpecc latbl o6cyxgehwe mporpammao6yyehua virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 7: code generation & operational semantics / 12-06: object layout (23m56s) (c]
+
+< previous mv ind a next >
+
+quiz
+qq bookmark this page
+
+object layout in-video quiz
+
+1/1 point (ungraded)
+
+for the given classes and object layout table, what are the correct inheritance relationships between classes?
+
+class a inherits 27? class tag
+oaxb<c ur int — 0;
+vi int —1; object
+} size
+oc<b<a
+lass b inherits 77? { dispatch
+@ a<c<b x int — 3; ptr
+yi int — 4; x
+ob<c<ca x y
+class c inherits 27? { z
+v zz int — $;
+} u
+v
+

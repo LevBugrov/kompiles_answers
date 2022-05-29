@@ -1,0 +1,26 @@
+fed x] slanfordoniine sorycscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flatbl o6cyxaehwe nporpammao6yyehua virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 3: parsing & top-down parsing / 06-03: recursive descent parsing (6m35s) (c]
+
+< previous mv wy next >
+
+quiz
+1 bookmark this page
+
+recursive descent parsing video quiz
+
+1/1 point (ungraded)
+
+choose the derivation that is a valid recursive descent parse for the string ‘id + id’ in the given grammar.
+moves that are followed by backtracking are given in red (in brackets following the move).
+
+of, bob |bve
+eee e> -e' | id | (e)
+id +e
+id +e
+id + id
+
+@ee

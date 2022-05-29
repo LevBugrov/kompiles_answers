@@ -1,0 +1,31 @@
+# course / week 3: parsing & top-down parsing / 05-02: context free grammars (14m07s)
+
+< previous
+
+my wv my next
+
+quiz
+a bookmark this page
+
+context free grammars in-video quiz
+
+o/1 point (ungraded)
+
+which of the strings are in the language of the given cfg?
+
+s—axa
+abcba xe€
+| by
+acca ye
+| cxe
+iy] aba
+v
+iy] abcbcba
+x
+explanation
+
+the production y > cxc shows that c's always appear in pairs, which rules out the first answer. the production
+x > by shows that every string with c's also has b's (since this production generates a b and must be used to
+generate any c's), ruling out the second answer. combining this production with y > cxc, we see that the last
+c must appear after the last b, which rules out the fourth answer. we then note that s > axa > abya > aba
+derives the third answer.

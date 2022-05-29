@@ -1,0 +1,34 @@
+v
+
+otnpasutb show answer
+
+question 9
+
+4/1 point (graded)
+given the following lexical specification:
+
+(00)*
+o1+
+10+
+
+which strings are not successfully processed by this specification?
+
+check all that apply]
+
+<
+
+0111110
+
+<
+
+01100110
+
+0001101
+
+01100100
+
+v
+
+otnpasutb show answer
+
+question 10

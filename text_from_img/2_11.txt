@@ -1,0 +1,34 @@
+stow alo wer
+
+y bepuo (1/1 gann)
+
+question 11
+
+1/1 point (graded)
+
+which of the following grammar(s) are unambiguous and recognize the same grammar as:
+ese+e|e-e|ex*e| e/e | int
+
+choose all that apply:
+
+m eb int +b | int — b| int * b| int/b | int
+
+<
+
+e> e+int| e-int| exint | e/int | int
+
+e> int+ e| e-int|int*e| e/int | int
+
+esint+ e'|int-e' |int+e|int-e
+e! — int * e | int/e’ | int
+
+<
+
+eoe4e|e-e|b
+e! > int» eb! | int/e' | int
+
+v
+
+otnpasute show answer
+
+v bepuo (1/1 gann)

@@ -1,0 +1,64 @@
+@ course / week 5: semantic analysis and type checking / 09-02: scope (8m09s)
+
+< previous
+
+my
+
+quiz
+qq bookmark this page
+
+scope video quiz
+
+1/1 point (ungraded)
+
+wt
+
+choose whether or not each variable use binds to the name on the given line.
+
+line 6 binds to line 2
+
+line 9 binds to line 7
+
+<
+
+line 11 binds to line 2
+
+1
+2
+3
+4
+6
+7
+is
+
+line 11 binds to line 14
+
+otnpasute bel mcnonb3abann 1 ma 3 nombitok
+
+y bepno (1/1 gann)
+
+cl
+
+foe ind: int {
+
+}
+
+lass foo {
+
+{
+
+let x: int © 4 in{
+
+x,
+
+let x int © 7 in
+
+x
+
+xsint © 14;
+
+coxpannrs
+
+show answer
+
+next >

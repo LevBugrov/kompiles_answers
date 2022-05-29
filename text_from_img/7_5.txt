@@ -1,0 +1,56 @@
+fedx | stanfordonline soe.yescs1
+compilers
+
+kypc mporpecc
+
+dats! ob6cyxpehne mporpamma o6yyehus virtualbox vm setup
+
+@ course / week 5: semantic analysis and type checking / 09-08: typing methods (8m12s)
+
+< previous
+
+tig aw
+
+help — eakrayushkina~
+
+getting started with the vm = other project resources = more... v.
+
+a next >
+
+quiz
+1 bookmark this page
+
+typing methods in-video quiz
+
+1/1 point (ungraded)
+
+given the class definitions and method declarations, which of the following are valid types for the variables in
+
+the following statement?
+
+zz - x.setcenter(y)
+
+x: rect, y: object, z: bool
+
+class object
+class bool inherits object
+class point inherits object
+
+iy} x: circle, y: point, z: bool
+
+|class line inherits object
+
+x: object, y: object, z: object
+
+lass shape inherits object {
+setcenter(p: point): bool {
+
+lv} x: shape, y: point, z: bool
+
+, a
+
+i
+
+class quad inherits shape
+class circle inherits shape
+class rect inherits quad

@@ -1,0 +1,76 @@
+fed | stanfordonline soe.ycscs1
+compilers
+
+kypc nporpecc ffathl o6cy:
+
+ok aehme
+
+nporpamma o6yyehua «virtualbox vm setup
+
+getting started with the vm
+
+@ course / week 6: cool type checking & runtime organization / 10-03: self type operations (12m12s}
+
+< previous
+
+qui
+
+my
+
+jz
+
+aq bookrark this page
+
+se
+
+1/1 point (ungraded)
+
+cho
+
+square s self_typeshape
+
+self_typec:irete s quad
+
+if type operations in-video quiz
+
+jose the subtype relations that are true for the class definitions below.
+
+class object
+class bool inherits object
+class point inherits object
+class line inherits object
+class shape inherits object
+class quad inherits shape
+
+self_typeghape $ shape
+
+(class circle inherits shape
+class rect inherits quad
+
+v
+
+self_typepect s$ shape
+
+lass square inherits rect
+
+v
+
+otnpasute bet ucnonb3obanu 2 43 3 nombitok,
+
+v
+
+bepno (1/1 6ann)
+
+coxpaunrs
+
+help
+
+other project resources
+
+show answer
+
+eakrayushkina v
+
+more...
+
+next >

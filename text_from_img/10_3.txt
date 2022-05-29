@@ -1,0 +1,34 @@
+@ course / week 7: code generation & operational semantics / 12-05: temporaries (16m14s)
+
+< previous
+
+my ira a next
+
+quiz
+qq bookmark this page
+
+temporaries in-video quiz
+1/1 point (ungraded)
+for the poweroftwo() function at right, what are the numbers of temporaries required to evaluate each sub-
+
+expression, and the total number of temporaries required for poweroftwo()?
+def poweroftwo(x) =
+
+x%2 == power of two(x/2) total if x % ==
+
+then poweroftwo(x/2)
+else x ==
+
+oo 1 2 2 3
+
+© 1 1 1 1
+
+oo 2 1 0 2
+
+oo 2 1 0 3
+
+v
+
+pause suem bi vcnonb3obann 1 m3 3 nonbitok coxpannth show answer
+
+y bepno (1/1 gann)

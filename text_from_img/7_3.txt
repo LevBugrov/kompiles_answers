@@ -1,0 +1,31 @@
+fedx | stanfordoniing sorycscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flatbl o6cyxgaehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+# course / week 5: semantic analysis and type checking / 09-06: type environments (11m43s} (c]
+
+< previous mv ind a next >
+
+quiz
+1 bookmark this page
+
+type environments in-video quiz
+
+1/1 point (ungraded)
+
+fill in the correct type environments in the following type rule
+
+ol-e:%
+o3| — e2 : th [let-init]
+
+o| —leta :t, < —e,ine2 : tz
+o o, = off) /2];02 = o[f/2|
+
+o o; = off) /2];o2 = o[ts/z]
+
+© 0, = 0;0 = o[f//2]
+
+© o, = 0,0) = o[fh/2]
+
+v7

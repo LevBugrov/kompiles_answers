@@ -1,0 +1,31 @@
+y bepuo (1/1 gann)
+
+question 2
+
+1/1 point (graded)
+
+now consider an optimization strategy that picks an order for applying copy propagation, constant folding, and
+constant propagation, and repeatedly performs those three optimizations in the same order until nothing
+changes.
+
+what is the worst possible order (i.e. requires the most passes) for the basic block given in question 1?
+
+© constant propagation, constant folding, copy propagation
+copy propagation, constant propagation, constant folding
+constant folding, copy propagation, constant propagation
+
+copy propagation, constant folding, constant propagation
+
+constant folding, constant propagation, copy propagation
+
+constant propagation, copy propagation, constant folding
+
+© o/®/o0 0 0
+
+otnpapute show answer
+
+y bepuo (1/1 gann)
+
+question 3
+
+4 nant naecibie [nraded)

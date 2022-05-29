@@ -1,0 +1,30 @@
+v
+
+otnpapute show answer
+
+y bepno (1/1 gann)
+
+question 6
+
+1/1 point (graded)
+
+for the grammar in the last question (question 5}, when applying shift-reduce parsing to the same string:
+if a then if b then win else loss
+what kind of conflicts will we have?
+
+o no conflict
+© reduce-reduce conflict
+
+© both conflicts
+
+©® shift-reduce conflict
+
+v
+
+otnpapute show answer
+
+y bepno (1/1 gann)
+
+question 7
+
+1/1 point (graded)

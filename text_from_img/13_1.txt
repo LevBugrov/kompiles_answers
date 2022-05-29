@@ -1,0 +1,39 @@
+< previous
+
+wt
+
+quiz #6
+
+aq bookrark this page
+
+quiz — ao may 11, 2022 16:02 msk
+question 1
+
+1/1 point (graded)
+
+consider the basic block:
+
+ys3
+
+¥
+
+i= 4*x
+
+now consider the local optimizations: constant propagation, copy propagation, and constant folding. for this
+example, what is the best order in which to apply the three optimizations, if each can be applied only once?
+
+© constant propagation, constant folding, copy propagation
+
+© copy propagation, constant propagation, constant folding
+
+constant folding, copy propagation, constant propagation
+copy propagation, constant folding, constant propagation
+constant folding, constant propagation, copy propagation
+
+constant propagation, copy propagation, constant folding
+
+© 000 0
+
+otnpapute show answer
+
+next >

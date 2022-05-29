@@ -1,0 +1,23 @@
+@ course / week 8: local optimization & global optimization / 15-02: constant propagation (21m11s)
+
+< previous
+
+my ind next >
+
+quiz
+qq bookmark this page
+
+constant propagation in-video quiz
+
+1/1 point (ungraded)
+
+after running the constant propagation algorithm to completion, choose the correct dataflow information for x,
+y, and z at the program point labeled at right.
+
+x y zz
+@©4 t t
+o4 t 5
+o4 1 5
+ot t t
+
+otnpaeute bei mcnonb3abanu 1 m3 3 nombitok coxpahutb == show answer

@@ -1,0 +1,37 @@
+fedx | stanfordoniing sorycscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flatbl o6cyxgaehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 3: parsing & top-down parsing / 05-03: derivations (7m37s) cc)
+
+< previous mv wy mv next >
+
+quiz
+1 bookmark this page
+
+derivations in-video quiz
+
+1/1 point (ungraded)
+
+which of the following is a valid derivation of the given grammar?
+
+s—axa
+os xo |
+
+axa ye | cxe | d
+abya
+acxca
+acca
+
+os
+
+aa
+
+@s
+axa
+abya
+abcxca
+abcbyca
+abcbdca
+

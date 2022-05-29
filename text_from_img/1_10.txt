@@ -1,0 +1,30 @@
+question 10
+
+1/1 point (graded)
+
+for any language d, the compfement of the language (usually written z’} is defined as the language
+that consists of all the strings that are not in l. that is,
+
+f=n"-l
+it turns out that the complement of any regular language is also a regular language.
+
+which of the following regular expressions define a language that is the complement of the language defined
+by the regular expression: 1(01}*?
+
+check all that apply]
+
+lv] (10)* + ((10)"0(0 + 1)*) + (1(01)*1(0 + 1)*)
+
+<
+
+€ + (0(0 + 1)*) + ((0 + :1)"0) + ((0 + 1)* (00 + 11) (0 + 1)")
+
+(o+e) (+e) (0+e))*
+
+(10)"
+
+v
+
+otnpapute show answer
+
+question 11

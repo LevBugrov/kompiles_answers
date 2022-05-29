@@ -1,0 +1,38 @@
+if a then if b then win else loss
+if var then if b then win else loss
+if var then if b then win else loss
+if var then if b then var else loss
+if var then if b then stmt else var
+if var then if var then stmt else var
+if var then if var then stmt else stmt
+if var then if_stmt
+if var then stmt
+if_stmt
+stmt
+
+lv] if a then if b then win else loss
+if var then if b then win else loss
+if var then if var then win else loss
+if var then if var then var else loss
+if var then if var then stmt else loss
+if var then if var then stmt else var
+if var then if var then stmt else stmt
+if var then if_stmt
+if var then stmt
+if_stmt
+stmt
+
+if a then if b then win else loss
+if var then if b then win else loss
+if var then if var then win else loss
+if var then if var then var else loss
+if var then if var then stmt else var
+if var then if var then stmt else stmt
+if var then if_stmt
+if var then stmt
+if_stmt
+stmt
+
+v
+
+otnpasute show answer

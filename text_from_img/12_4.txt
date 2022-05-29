@@ -1,0 +1,19 @@
+fedx | stanfordoniing sorycscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flatbl o6cyxgaehwe mporpammao6yyehuna virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 8: local optimization & global optimization / 15-05: liveness analysis (13m29s)
+
+< previous mv ind a next >
+
+quiz
+[1 bookmark this page
+
+liveness analysis in-video quiz
+
+1/1 point (ungraded)
+
+after running the liveness analysis algorithm to completion, which of w, x, y, and z are live at the program
+point labeled at right? assume all variables are dead on exit.
+

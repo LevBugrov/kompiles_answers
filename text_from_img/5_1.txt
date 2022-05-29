@@ -1,0 +1,32 @@
+@ course / week 2: lexical analysis & finite automata / 03-01: lexical analysis (12m06s)
+
+< previous mv wy mv next
+
+quiz
+[1] bookmark this page
+
+lexical analysis in-video quiz
+
+1/1 point (ungraded)
+
+for the code fragment below, choose the correct number of tokens in each class that appear in the code
+fragment.
+
+x=o,n\twhile (x < 10} { \n \txe++; \n }
+w: whitespace
+
+@ w=9;k=1;1=3;n=2;0=9; ik: keyword
+i: identifier
+n: number
+
+o we; k=4)1=0;,n=2;0=9; ©: other tokens:
+to < +455
+
+o w=9;k=4;1=0;n=3;0=9;
+o w=11;k=1;1=3;n=3;0=9
+
+v
+
+bor ucnonb3osanu 3 m3 3 nonbiitok show answer
+
+¢< previous next >

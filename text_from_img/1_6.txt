@@ -1,0 +1,34 @@
+v
+
+otnpapute show answer
+
+question 6
+
+1/1 point (graded)
+
+the language of the regular expresion (abab)* is equivalent to the language of which of the following regular
+expressions?
+
+check all that apply]
+
+<
+
+(aba (baba)” b) + €
+
+<
+
+(ab (abab)* ab) + €
+
+(a (ba)* b) + €
+
+(aby"
+
+v
+
+otnpapute show answer
+
+question 7
+
+1/1 point (graded)
+
+what is the minimum number of states a dfa recognizing the language of a(be)*d can have?

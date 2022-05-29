@@ -1,0 +1,22 @@
+otnpapute show answer
+
+y bepno (1/1 gann)
+
+question 7
+
+1/1 point (graded)
+
+assume that the following lines are added before line 1 of the code in question 5:
+zi=2
+
+yis3
+
+which lines (using the numbering given above) are now unreachable?
+
+choose all that apply]
+
+ly] 12
+
+v
+
+otnpasutb show answer

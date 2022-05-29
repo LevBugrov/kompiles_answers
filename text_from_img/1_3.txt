@@ -1,0 +1,27 @@
+otnpapute show answer
+
+question 3
+
+1/1 point (graded)
+using the lexical specification below, what sequence of the rules is used to tokenize the string "dictatorial"?
+
+dict (1)
+dictator (2)
+[a-z]* (3)
+dictatorial (4)
+
+@©3
+o13
+0 2,3
+
+oa
+v
+
+otnpapute show answer
+
+question 4
+
+1/1 point (graded)
+
+which of the following regular expressions generate the same language as the one recognized by this nfa?
+[check all that apply]

@@ -1,0 +1,28 @@
+11 label2:
+
+12. y:=x+2
+130 x:=0
+14
+
+15
+
+16
+
+17 label3:
+18 y:=x+1
+
+using the algorithm for constant propagation in the videos, in which of the following lines could the use of x be
+replaced by a constant? assume that no other optimizations are performed before constant propagation.
+check all that apply]
+
+iv] 18
+
+v
+
+otnpapute show answer
+
+y  bepuo (1/1 gann)
+
+question 4
+
+td naint mascinia [arated

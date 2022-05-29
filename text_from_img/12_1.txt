@@ -1,0 +1,31 @@
+fed | slanfordonine sorncscst help — eakrayushkinav
+compilers
+
+kypc mporpecc ffatbl o6cyxgaehwe nporpammao6yyehun virtualbox vmsetup ‘getting started with the vm other project resources more...v
+
+@ course / week 8: local optimization & global optimization / 14-03: local optimization (25m35s) (c]
+
+< previous mv ira next >
+
+quiz
+( bookmark this page
+
+local optimization video quiz
+
+1/1 point (ungraded)
+
+which of the following are valid local optimizations for the given basic block? assume that only g and x are
+referenced outside of this basic block.
+
+copy propagation: line 4 becomes d := a*b
+
+common subexpression elimination: line 5 becomes e := d
+
+\¥| dead code elimination: line 3 is removed
+
+lv] after many rounds of valid optimizations, the entire block can be reduced to g :=
+5
+
+v
+
+otnpasute boi mcnonb3abanu 1 m3 3 nombitok coxpahutb = show answer

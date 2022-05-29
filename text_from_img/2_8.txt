@@ -1,0 +1,31 @@
+v
+
+otnpasutb show answer
+
+y bepno (1/1 gann)
+
+question 8
+
+1/1 point (graded)
+
+choose all that apply]
+
+lv] the language “strings with an even number of 0's" is both regular and context-free.
+
+¥] the language "0" 1", where n > 0 is an integer” is context-free but not regular.
+
+the language "0" 1” 2”, where n > 0 is an integer" is context-free but not regular.
+
+2
+the language “0” , where n > 0 is an integer” is regular.
+
+2
+the language “0” , where n > 0 is an integer” is neither context-free nor regular.
+
+v
+
+otnpasute show answer
+
+v bepuo (1/1 gann)
+
+question 9

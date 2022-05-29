@@ -1,0 +1,18 @@
+fed x] stanfordoniine sorycscst help — eakrayushkinav
+compilers
+
+kypc [porpecc flatbl o6cyxgehwe nporpammao6yyehun virtualbox vmsetup getting started with the vm other project resources more...v
+
+@ course / week 2: lexical analysis & finite automata / 04-03: regular expressions into nfas (9m41s) (c]
+
+< previous mv wy next >
+
+quiz
+[1] bookmark this page
+
+regular expressions into nfas video quiz
+
+1/1 point (ungraded)
+
+choose the nfa that accepts the following regular expression: 1* + 0.
+

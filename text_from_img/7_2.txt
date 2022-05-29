@@ -1,0 +1,25 @@
+lj bookmark this page
+
+type checking in-video quiz
+4/1 point (ungraded)
+
+choose the type rules that are sound.
+
+iv] [sequence]
+
+fe: ty
+f €3 : th
+ken. th
+
+divide]
+fe, :int be: int
++ e;/e2 : bool
+compare]
+fe, :int be: int
+bk e; <e2: int
+lv] [isvoid]
+
+fe: ty
+
+k isvoid e, : bool
+

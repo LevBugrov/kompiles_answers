@@ -1,0 +1,30 @@
+v
+
+otnpapute show answer
+
+vy bepho (1/1 gann)
+
+question 11
+
+4/1 point (graded)
+which of the following statements are true about this grammar:
+
+s— atub |e
+t= cuc | bub | ava
+u— sb | cc
+
+the first set of sis fe, a, b}
+
+¥| the first set of u is {a, b, c}
+
+<
+
+the follow set of s is {$, b}
+
+l¥| the follow set of t is {a, b, c}
+
+v
+
+otnpasutb show answer
+
+vy bepuo (1/1 gann)

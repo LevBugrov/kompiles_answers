@@ -1,0 +1,35 @@
+y bepuo (1/1 gann)
+
+question 5
+
+1/1 point (graded)
+
+which of the following grammars correctly removes left-recursion from:
+
+s— aa | 6
+a> sb
+
+choose all that apply]
+
+<
+
+s— aa | 6
+a= 6ba’
+a’ + aba' |e
+
+<
+
+5 6s’
+s' + as' |e
+a- ba
+
+s— aa | 6
+a- 6b | aap
+
+s$ 5aa| 5
+asamale
+a’ af
+
+v
+
+otnpapute show answer

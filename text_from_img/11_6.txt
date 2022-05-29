@@ -1,0 +1,34 @@
+question 6
+
+1/1 point (graded)
+
+consider the following program.
+class f {
+factorial(x:int) : int { if x = 1 then 1 else x * factorial(x-1) fi};
+}
+class main {
+f:f <— new f;
+f.factorial(3);
+}
+
+which of the following could be a valid step in the derivation of the dispatch to factorial in main?
+
+choose all that apply]
+
+f, [cx], [lx & 3] |- x = 1: bool(true}, [lx = 3]
+
+impl(f, factorial) = (x, x * factorial(x-1})
+
+lv] s_i+1 = s_i[2/lx]
+
+class(f) = (f:-f <— new f)
+
+v
+
+otbet
+bepuo:
+it's a valid step when we bind the actual parameter 2 to the formal parameter x at calling function factorial(2).
+
+otnpapute show answer
+
+y bepuo (1/1 gann)

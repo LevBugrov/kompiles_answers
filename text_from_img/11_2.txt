@@ -1,0 +1,26 @@
+db enalrl
+true?:
+li $a0 17
+endif1:
+lw $ra 4($sp)
+addiu $sp $sp #1
+lw $fp o($sp)
+jr$ra
+one argument to an instruction (#1) is missing. and consider the following expression from which the code was
+generated, with missing subexpressions #2 and #3.
+
+def foo(x,y,z) = if y = #2 then 17 else #3
+what are the values for #1, #2 and #3?
+o #1 = 20,#2=2,#3=x
+o #1=16,#2=%,#3=2
+© #1 =12,#2=72,#3=%
+o #1=16,#2=2,#3=x
+
+o #1=12,#2=%,#3=z
+
+© #1 = 20,8#2=%,#3=2
+
+v
+otnpapute show answer
+
+y bepuo (1/1 gann)
