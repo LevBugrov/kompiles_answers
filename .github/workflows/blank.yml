@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  sys_info:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,8 +22,19 @@ jobs:
       - name: system info
         run: lshw
   
-  env:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      local_env: job_print_env
+    steps:
+      - name: build
+        run: echo "test build" >> build.txt
+  
+  test:
+    runs-on: ubuntu-latest
+
+  export:
     runs-on: ubuntu-latest
     steps:
-      - name: print env
-        run: env
+      - name: run_test
+        run: echo "hello"
