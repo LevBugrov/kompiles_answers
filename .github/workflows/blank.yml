@@ -32,9 +32,12 @@ jobs:
   
   test:
     runs-on: ubuntu-latest
+    steps:
+      - name: run_test
+        run: echo "hello test"
 
   export:
     runs-on: ubuntu-latest
     steps:
-      - name: run_test
-        run: echo "hello"
+      - name: run_export
+        run: echo "hello export"
