@@ -23,7 +23,7 @@ jobs:
         run: lshw
   
   env:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: print env
         run: env
